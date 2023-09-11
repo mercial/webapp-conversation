@@ -1,25 +1,25 @@
 const translation = {
   common: {
-    welcome: 'Welcome to use',
-    appUnavailable: 'App is unavailable',
-    appUnkonwError: 'App is unavailable',
+    welcome: 'Добро пожаловать',
+    appUnavailable: 'Приложение недоступно',
+    appUnkonwError: 'Приложение недоступно',
   },
   chat: {
-    newChat: 'New chat',
-    newChatDefaultName: 'New conversation',
+    newChat: 'Новый чат',
+    newChatDefaultName: 'Новое обращение',
     openingStatementTitle: 'Opening statement',
     powerBy: 'Powered by',
     prompt: 'Prompt',
-    privatePromptConfigTitle: 'Conversation settings',
+    privatePromptConfigTitle: 'Настройки обращения',
     publicPromptConfigTitle: 'Initial Prompt',
     configStatusDes: 'Before start, you can modify conversation settings',
     configDisabled:
       'Previous session settings have been used for this session.',
-    startChat: 'Start Chat',
+    startChat: 'Написать',
     privacyPolicyLeft:
-      'Please read the ',
+      'Пожалуйста прочитайте ',
     privacyPolicyMiddle:
-      'privacy policy',
+      'Политика конфиденциальности',
     privacyPolicyRight:
       ' provided by the app developer.',
   },
