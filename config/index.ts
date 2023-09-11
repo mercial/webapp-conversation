@@ -3,11 +3,11 @@ export const APP_ID = '982927e4-9975-4bb3-a7b2-62458c840991'
 export const API_KEY = 'app-FKeW4tWzosImRA7WmSflyDyA'
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
-  description: '',
-  copyright: '',
+  title: 'Онлайн-чат',
+  description: 'Онлайн чат с оператором',
+  copyright: '(c) PYRAMIDGROUP.KZ',
   privacy_policy: '',
-  default_language: 'zh-Hans',
+  default_language: 'ru-RU',
 }
 
 export const isShowPrompt = false
